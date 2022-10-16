@@ -1,0 +1,28 @@
+.container {
+    background-color: aliceblue;
+}
+.container .imges{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container .imges img{
+    width: 200px;
+    margin-left: 200px;
+    border-radius: 50%;
+
+}
+.container .imges .salam {
+    margin-right: 500px;
+    font-size: 30px;
+}
+.Skils{
+   margin-left: 200px;
+}
+.Skils h3{
+    margin-left: 100px;
+    font-size: 30px;  
+}
+.Skils ul{
+    margin-left: 120px;
+}
